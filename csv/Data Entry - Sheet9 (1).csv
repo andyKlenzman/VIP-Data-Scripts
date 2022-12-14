@@ -1,0 +1,13 @@
+status,ocd-division,Locality ,Location Name,directions,address_line1,address_line2,address_city,address_state,address_zip,time_zone,TEMP COLUM TIME,start_time,end_time,start_date,end_date,is_only_by_appointment,is_or_by_appointment,is_drop_box,is_early_voting,internal_notes
+,,Waitsfield,,,4144 Main Street,,Waitsfield,VT,5673,,M T Th F 8-4:30,8:00:00,16:30:00,2022-09-26,2022-09-27,,,,,
+,,Waitsfield,,,4144 Main Street,,Waitsfield,VT,5673,,M T Th F 8-4:30,8:00:00,16:30:00,2022-09-29,2022-09-30,,,,,
+,,Walden,,,12 VT Route 215,,West Danville,VT,5873,,M-W 9-4; Th 9-5,9:00:00,16:00:00,2022-09-26,2022-09-28,,,,,
+,,Walden,,,12 VT Route 215,,West Danville,VT,5873,,M-W 9-4; Th 9-5,9:00:00,17:00:00,2022-09-29,2022-09-29,,,,,
+,,Wallingford,,,75 School Street,,Wallingford,VT,5773,,M-Th 8-4:30,8:00:00,16:30:00,2022-09-26,2022-09-29,,,,,
+,,Waltham,,,P.O. Box 175,,Vergennes,VT,5491,,T Th 9-3,9:00:00,15:00:00,2022-09-27,2022-09-27,,,,,
+,,Waltham,,,P.O. Box 175,,Vergennes,VT,5491,,T Th 9-3,9:00:00,15:00:00,2022-09-29,2022-09-29,,,,,
+,,Saint Johnsbury,,,51 Depot Square,,St Johnsbury,VT,5819,,M-F 8-4,8:00:00,16:00:00,2022-09-26,2022-09-30,,,,,
+,,Stowe,,,P.O. Box 730,,Stowe,VT,5672,,"M-F 8-4:30 & 8-12 The day befor elections, and 10-4:30 The day after elections",8:00:00,16:30:00,2022-09-26,2022-09-30,,,,,
+,,Stowe,,,P.O. Box 730,,Stowe,VT,5672,,"M-F 8-4:30 & 8-12 The day befor elections, and 10-4:30 The day after elections",8:00:00,12:00:00,2022-11-07,2022-11-07,,,,,
+,,Strafford,,,P.O. Box 27,,Strafford,VT,5072,,M-Th 7:30-4:30,7:30:00,16:30:00,2022-09-26,2022-09-29,,,,,
+,,Stratton,,,9 West Jamaica Road.,,Stratton,VT,5360,,M-Th 9-3,9:00:00,15:00:00,2022-09-26,2022-09-29,,,,,
